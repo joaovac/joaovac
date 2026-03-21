@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I'm a Computer Engineering Student @ UFMS
+I'm a MSc student in Artificial Intelligence & Robotics at USP
 
 
 ## 🌐 Socials:
